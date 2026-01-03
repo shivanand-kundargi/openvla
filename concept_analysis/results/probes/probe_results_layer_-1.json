@@ -1,0 +1,3130 @@
+[
+  {
+    "concept": "action:close",
+    "train_pos": 252,
+    "val_pos": 62,
+    "accuracy": 0.9885,
+    "f1": 0.7722772277227723,
+    "average_precision": 0.9325240755387433
+  },
+  {
+    "concept": "action:flip",
+    "train_pos": 82,
+    "val_pos": 23,
+    "accuracy": 0.997,
+    "f1": 0.85,
+    "average_precision": 1.0
+  },
+  {
+    "concept": "action:lift",
+    "train_pos": 10,
+    "val_pos": 5,
+    "accuracy": 0.9975,
+    "f1": 0.0,
+    "average_precision": 0.004505187406318888
+  },
+  {
+    "concept": "action:lower",
+    "train_pos": 154,
+    "val_pos": 26,
+    "accuracy": 0.99,
+    "f1": 0.375,
+    "average_precision": 0.882904562675927
+  },
+  {
+    "concept": "action:move",
+    "train_pos": 1607,
+    "val_pos": 377,
+    "accuracy": 0.9895,
+    "f1": 0.9718875502008032,
+    "average_precision": 0.9969052629636765
+  },
+  {
+    "concept": "action:open",
+    "train_pos": 260,
+    "val_pos": 67,
+    "accuracy": 0.9975,
+    "f1": 0.9612403100775194,
+    "average_precision": 0.985596275274644
+  },
+  {
+    "concept": "action:pick",
+    "train_pos": 313,
+    "val_pos": 84,
+    "accuracy": 0.9975,
+    "f1": 0.9693251533742331,
+    "average_precision": 0.9992063492063489
+  },
+  {
+    "concept": "action:pick_up",
+    "train_pos": 228,
+    "val_pos": 63,
+    "accuracy": 0.9965,
+    "f1": 0.9448818897637795,
+    "average_precision": 0.9786663250446255
+  },
+  {
+    "concept": "action:place",
+    "train_pos": 454,
+    "val_pos": 122,
+    "accuracy": 0.974,
+    "f1": 0.7425742574257426,
+    "average_precision": 0.9204569853461453
+  },
+  {
+    "concept": "action:place_on",
+    "train_pos": 12,
+    "val_pos": 3,
+    "accuracy": 0.9985,
+    "f1": 0.0,
+    "average_precision": 0.02111890241792016
+  },
+  {
+    "concept": "action:pour",
+    "train_pos": 17,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 1.0
+  },
+  {
+    "concept": "action:pull",
+    "train_pos": 3,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.0010526315789473684
+  },
+  {
+    "concept": "action:push",
+    "train_pos": 13,
+    "val_pos": 2,
+    "accuracy": 0.999,
+    "f1": 0.0,
+    "average_precision": 0.005249036873968079
+  },
+  {
+    "concept": "action:put",
+    "train_pos": 1875,
+    "val_pos": 483,
+    "accuracy": 0.985,
+    "f1": 0.9686847599164927,
+    "average_precision": 0.9966321099907772
+  },
+  {
+    "concept": "action:put_down",
+    "train_pos": 7,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "action:remove",
+    "train_pos": 71,
+    "val_pos": 18,
+    "accuracy": 0.995,
+    "f1": 0.6153846153846154,
+    "average_precision": 0.9795774498883376
+  },
+  {
+    "concept": "action:rotate",
+    "train_pos": 2,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.0036496350364963502
+  },
+  {
+    "concept": "action:slide",
+    "train_pos": 18,
+    "val_pos": 6,
+    "accuracy": 0.997,
+    "f1": 0.0,
+    "average_precision": 1.0
+  },
+  {
+    "concept": "action:stack",
+    "train_pos": 2,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "action:take",
+    "train_pos": 416,
+    "val_pos": 94,
+    "accuracy": 0.9985,
+    "f1": 0.9841269841269841,
+    "average_precision": 0.978778047072035
+  },
+  {
+    "concept": "action:turn",
+    "train_pos": 105,
+    "val_pos": 27,
+    "accuracy": 0.9975,
+    "f1": 0.8979591836734694,
+    "average_precision": 1.0
+  },
+  {
+    "concept": "attr:back",
+    "train_pos": 13,
+    "val_pos": 3,
+    "accuracy": 0.9985,
+    "f1": 0.0,
+    "average_precision": 0.01843901319084989
+  },
+  {
+    "concept": "attr:big",
+    "train_pos": 5,
+    "val_pos": 4,
+    "accuracy": 0.998,
+    "f1": 0.0,
+    "average_precision": 0.0058309037900874635
+  },
+  {
+    "concept": "attr:black",
+    "train_pos": 10,
+    "val_pos": 4,
+    "accuracy": 0.998,
+    "f1": 0.0,
+    "average_precision": 0.03365307073746971
+  },
+  {
+    "concept": "attr:blue",
+    "train_pos": 548,
+    "val_pos": 121,
+    "accuracy": 0.9845,
+    "f1": 0.8544600938967136,
+    "average_precision": 0.9846359590350888
+  },
+  {
+    "concept": "attr:bottom",
+    "train_pos": 276,
+    "val_pos": 63,
+    "accuracy": 0.9835,
+    "f1": 0.6597938144329897,
+    "average_precision": 0.8711669762103563
+  },
+  {
+    "concept": "attr:brown",
+    "train_pos": 18,
+    "val_pos": 4,
+    "accuracy": 0.998,
+    "f1": 0.0,
+    "average_precision": 0.8269230769230769
+  },
+  {
+    "concept": "attr:center",
+    "train_pos": 1,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.003134796238244514
+  },
+  {
+    "concept": "attr:circular",
+    "train_pos": 3,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "attr:close",
+    "train_pos": 125,
+    "val_pos": 29,
+    "accuracy": 0.9885,
+    "f1": 0.34285714285714286,
+    "average_precision": 0.8750091456314281
+  },
+  {
+    "concept": "attr:croissant",
+    "train_pos": 12,
+    "val_pos": 3,
+    "accuracy": 0.9985,
+    "f1": 0.0,
+    "average_precision": 0.7435897435897436
+  },
+  {
+    "concept": "attr:cylindrical",
+    "train_pos": 3,
+    "val_pos": 2,
+    "accuracy": 0.999,
+    "f1": 0.0,
+    "average_precision": 0.5037174721189591
+  },
+  {
+    "concept": "attr:eggplant",
+    "train_pos": 25,
+    "val_pos": 8,
+    "accuracy": 0.996,
+    "f1": 0.0,
+    "average_precision": 0.6498397435897436
+  },
+  {
+    "concept": "attr:empty",
+    "train_pos": 1,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "attr:far",
+    "train_pos": 18,
+    "val_pos": 3,
+    "accuracy": 0.9985,
+    "f1": 0.0,
+    "average_precision": 0.8055555555555556
+  },
+  {
+    "concept": "attr:faucet",
+    "train_pos": 30,
+    "val_pos": 7,
+    "accuracy": 0.9965,
+    "f1": 0.0,
+    "average_precision": 0.948051948051948
+  },
+  {
+    "concept": "attr:flip",
+    "train_pos": 62,
+    "val_pos": 18,
+    "accuracy": 0.9995,
+    "f1": 0.9714285714285714,
+    "average_precision": 0.9879227053140096
+  },
+  {
+    "concept": "attr:front",
+    "train_pos": 49,
+    "val_pos": 14,
+    "accuracy": 0.9935,
+    "f1": 0.13333333333333333,
+    "average_precision": 0.6303762228800692
+  },
+  {
+    "concept": "attr:gray",
+    "train_pos": 5,
+    "val_pos": 4,
+    "accuracy": 0.998,
+    "f1": 0.0,
+    "average_precision": 0.011352126680893318
+  },
+  {
+    "concept": "attr:green",
+    "train_pos": 275,
+    "val_pos": 72,
+    "accuracy": 0.984,
+    "f1": 0.7333333333333333,
+    "average_precision": 0.8919090662005074
+  },
+  {
+    "concept": "attr:grey",
+    "train_pos": 2,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "attr:half",
+    "train_pos": 5,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.0008620689655172414
+  },
+  {
+    "concept": "attr:hot",
+    "train_pos": 19,
+    "val_pos": 4,
+    "accuracy": 0.999,
+    "f1": 0.6666666666666666,
+    "average_precision": 0.7568027210884354
+  },
+  {
+    "concept": "attr:laundry",
+    "train_pos": 31,
+    "val_pos": 5,
+    "accuracy": 0.9975,
+    "f1": 0.0,
+    "average_precision": 0.8526315789473684
+  },
+  {
+    "concept": "attr:left",
+    "train_pos": 641,
+    "val_pos": 150,
+    "accuracy": 0.963,
+    "f1": 0.7063492063492064,
+    "average_precision": 0.8407963564198235
+  },
+  {
+    "concept": "attr:light",
+    "train_pos": 17,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 1.0
+  },
+  {
+    "concept": "attr:little",
+    "train_pos": 5,
+    "val_pos": 3,
+    "accuracy": 0.9985,
+    "f1": 0.0,
+    "average_precision": 0.004453806992749939
+  },
+  {
+    "concept": "attr:long",
+    "train_pos": 4,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.0019305019305019305
+  },
+  {
+    "concept": "attr:low",
+    "train_pos": 137,
+    "val_pos": 20,
+    "accuracy": 0.9905,
+    "f1": 0.09523809523809523,
+    "average_precision": 0.7436629146996795
+  },
+  {
+    "concept": "attr:middle",
+    "train_pos": 44,
+    "val_pos": 12,
+    "accuracy": 0.994,
+    "f1": 0.0,
+    "average_precision": 0.11527469443951549
+  },
+  {
+    "concept": "attr:near",
+    "train_pos": 8,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "attr:next",
+    "train_pos": 2,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.004739336492890996
+  },
+  {
+    "concept": "attr:open",
+    "train_pos": 155,
+    "val_pos": 37,
+    "accuracy": 0.996,
+    "f1": 0.8787878787878788,
+    "average_precision": 0.952801366867399
+  },
+  {
+    "concept": "attr:orange",
+    "train_pos": 53,
+    "val_pos": 8,
+    "accuracy": 0.996,
+    "f1": 0.0,
+    "average_precision": 0.5816657913165266
+  },
+  {
+    "concept": "attr:other",
+    "train_pos": 17,
+    "val_pos": 2,
+    "accuracy": 0.999,
+    "f1": 0.0,
+    "average_precision": 0.025017433751743375
+  },
+  {
+    "concept": "attr:pink",
+    "train_pos": 18,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 1.0
+  },
+  {
+    "concept": "attr:plastic",
+    "train_pos": 2,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.013513513513513514
+  },
+  {
+    "concept": "attr:purple",
+    "train_pos": 89,
+    "val_pos": 24,
+    "accuracy": 0.9935,
+    "f1": 0.6285714285714286,
+    "average_precision": 0.9297183932052351
+  },
+  {
+    "concept": "attr:put",
+    "train_pos": 15,
+    "val_pos": 2,
+    "accuracy": 0.999,
+    "f1": 0.0,
+    "average_precision": 1.0
+  },
+  {
+    "concept": "attr:rectangular",
+    "train_pos": 37,
+    "val_pos": 9,
+    "accuracy": 0.9965,
+    "f1": 0.36363636363636365,
+    "average_precision": 0.7277475610808946
+  },
+  {
+    "concept": "attr:red",
+    "train_pos": 267,
+    "val_pos": 68,
+    "accuracy": 0.9855,
+    "f1": 0.7339449541284404,
+    "average_precision": 0.9452599147177342
+  },
+  {
+    "concept": "attr:right",
+    "train_pos": 489,
+    "val_pos": 127,
+    "accuracy": 0.9715,
+    "f1": 0.7272727272727273,
+    "average_precision": 0.8978898793702618
+  },
+  {
+    "concept": "attr:same",
+    "train_pos": 1,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "attr:silver",
+    "train_pos": 17,
+    "val_pos": 9,
+    "accuracy": 0.9955,
+    "f1": 0.0,
+    "average_precision": 0.025959886843977667
+  },
+  {
+    "concept": "attr:small",
+    "train_pos": 18,
+    "val_pos": 6,
+    "accuracy": 0.997,
+    "f1": 0.0,
+    "average_precision": 0.570261088928096
+  },
+  {
+    "concept": "attr:square",
+    "train_pos": 2,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.002717391304347826
+  },
+  {
+    "concept": "attr:stainless",
+    "train_pos": 7,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "attr:sweet",
+    "train_pos": 33,
+    "val_pos": 11,
+    "accuracy": 0.999,
+    "f1": 0.9,
+    "average_precision": 0.9848484848484849
+  },
+  {
+    "concept": "attr:tall",
+    "train_pos": 2,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "attr:top",
+    "train_pos": 324,
+    "val_pos": 67,
+    "accuracy": 0.982,
+    "f1": 0.6538461538461539,
+    "average_precision": 0.8286611898374319
+  },
+  {
+    "concept": "attr:topple",
+    "train_pos": 10,
+    "val_pos": 2,
+    "accuracy": 0.999,
+    "f1": 0.0,
+    "average_precision": 0.007407407407407408
+  },
+  {
+    "concept": "attr:upper",
+    "train_pos": 178,
+    "val_pos": 28,
+    "accuracy": 0.9915,
+    "f1": 0.5641025641025641,
+    "average_precision": 0.8654284271305501
+  },
+  {
+    "concept": "attr:upright",
+    "train_pos": 51,
+    "val_pos": 10,
+    "accuracy": 0.996,
+    "f1": 0.3333333333333333,
+    "average_precision": 1.0
+  },
+  {
+    "concept": "attr:vertical",
+    "train_pos": 71,
+    "val_pos": 17,
+    "accuracy": 1.0,
+    "f1": 1.0,
+    "average_precision": 1.0
+  },
+  {
+    "concept": "attr:violet",
+    "train_pos": 8,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.005208333333333333
+  },
+  {
+    "concept": "attr:white",
+    "train_pos": 111,
+    "val_pos": 31,
+    "accuracy": 0.9875,
+    "f1": 0.32432432432432434,
+    "average_precision": 0.8561558555856613
+  },
+  {
+    "concept": "attr:wooden",
+    "train_pos": 16,
+    "val_pos": 6,
+    "accuracy": 0.997,
+    "f1": 0.0,
+    "average_precision": 0.4147407939542771
+  },
+  {
+    "concept": "attr:yellow",
+    "train_pos": 369,
+    "val_pos": 98,
+    "accuracy": 0.981,
+    "f1": 0.759493670886076,
+    "average_precision": 0.9764242314459175
+  },
+  {
+    "concept": "obj:allen",
+    "train_pos": 9,
+    "val_pos": 2,
+    "accuracy": 0.999,
+    "f1": 0.0,
+    "average_precision": 1.0
+  },
+  {
+    "concept": "obj:almond",
+    "train_pos": 16,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 1.0
+  },
+  {
+    "concept": "obj:animal",
+    "train_pos": 3,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "obj:apple",
+    "train_pos": 3,
+    "val_pos": 3,
+    "accuracy": 0.9985,
+    "f1": 0.0,
+    "average_precision": 0.015054743814533412
+  },
+  {
+    "concept": "obj:arc",
+    "train_pos": 4,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "obj:arch",
+    "train_pos": 57,
+    "val_pos": 17,
+    "accuracy": 0.9925,
+    "f1": 0.21052631578947367,
+    "average_precision": 0.6314470043662708
+  },
+  {
+    "concept": "obj:arm",
+    "train_pos": 5,
+    "val_pos": 3,
+    "accuracy": 0.9985,
+    "f1": 0.0,
+    "average_precision": 0.01090774505220508
+  },
+  {
+    "concept": "obj:back",
+    "train_pos": 15,
+    "val_pos": 4,
+    "accuracy": 0.998,
+    "f1": 0.0,
+    "average_precision": 0.4113280455562334
+  },
+  {
+    "concept": "obj:bag",
+    "train_pos": 12,
+    "val_pos": 2,
+    "accuracy": 0.999,
+    "f1": 0.0,
+    "average_precision": 0.0017226528854435831
+  },
+  {
+    "concept": "obj:ball",
+    "train_pos": 21,
+    "val_pos": 3,
+    "accuracy": 0.9985,
+    "f1": 0.0,
+    "average_precision": 1.0
+  },
+  {
+    "concept": "obj:banana",
+    "train_pos": 80,
+    "val_pos": 19,
+    "accuracy": 0.9975,
+    "f1": 0.8484848484848485,
+    "average_precision": 0.9999999999999998
+  },
+  {
+    "concept": "obj:bar",
+    "train_pos": 7,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "obj:basil",
+    "train_pos": 27,
+    "val_pos": 3,
+    "accuracy": 0.9985,
+    "f1": 0.0,
+    "average_precision": 1.0
+  },
+  {
+    "concept": "obj:basket",
+    "train_pos": 65,
+    "val_pos": 17,
+    "accuracy": 0.9915,
+    "f1": 0.0,
+    "average_precision": 0.854818268770923
+  },
+  {
+    "concept": "obj:baster",
+    "train_pos": 1,
+    "val_pos": 2,
+    "accuracy": 0.999,
+    "f1": 0.0,
+    "average_precision": 0.0016960443847073656
+  },
+  {
+    "concept": "obj:bear",
+    "train_pos": 3,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.0022522522522522522
+  },
+  {
+    "concept": "obj:beet",
+    "train_pos": 9,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "obj:bell",
+    "train_pos": 9,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.02631578947368421
+  },
+  {
+    "concept": "obj:bit",
+    "train_pos": 13,
+    "val_pos": 5,
+    "accuracy": 0.9975,
+    "f1": 0.0,
+    "average_precision": 0.00416991224658181
+  },
+  {
+    "concept": "obj:block",
+    "train_pos": 137,
+    "val_pos": 39,
+    "accuracy": 0.986,
+    "f1": 0.46153846153846156,
+    "average_precision": 0.8430050024081168
+  },
+  {
+    "concept": "obj:blue",
+    "train_pos": 4,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "obj:blueberry",
+    "train_pos": 15,
+    "val_pos": 5,
+    "accuracy": 0.9975,
+    "f1": 0.0,
+    "average_precision": 0.4566666666666667
+  },
+  {
+    "concept": "obj:board",
+    "train_pos": 37,
+    "val_pos": 16,
+    "accuracy": 0.995,
+    "f1": 0.5454545454545454,
+    "average_precision": 0.8991461366181411
+  },
+  {
+    "concept": "obj:book",
+    "train_pos": 8,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.0007097232079489
+  },
+  {
+    "concept": "obj:bottle",
+    "train_pos": 66,
+    "val_pos": 7,
+    "accuracy": 0.9995,
+    "f1": 0.9230769230769231,
+    "average_precision": 0.9238095238095237
+  },
+  {
+    "concept": "obj:bottom",
+    "train_pos": 363,
+    "val_pos": 68,
+    "accuracy": 0.9845,
+    "f1": 0.7304347826086957,
+    "average_precision": 0.8092500348453462
+  },
+  {
+    "concept": "obj:bowl",
+    "train_pos": 197,
+    "val_pos": 46,
+    "accuracy": 0.9895,
+    "f1": 0.7123287671232876,
+    "average_precision": 0.967920245261201
+  },
+  {
+    "concept": "obj:box",
+    "train_pos": 39,
+    "val_pos": 6,
+    "accuracy": 0.997,
+    "f1": 0.0,
+    "average_precision": 0.48837577825063894
+  },
+  {
+    "concept": "obj:bread",
+    "train_pos": 8,
+    "val_pos": 6,
+    "accuracy": 0.997,
+    "f1": 0.0,
+    "average_precision": 0.011447202376893832
+  },
+  {
+    "concept": "obj:broccoli",
+    "train_pos": 103,
+    "val_pos": 21,
+    "accuracy": 0.999,
+    "f1": 0.95,
+    "average_precision": 1.0
+  },
+  {
+    "concept": "obj:brush",
+    "train_pos": 88,
+    "val_pos": 20,
+    "accuracy": 0.9955,
+    "f1": 0.7096774193548387,
+    "average_precision": 1.0000000000000002
+  },
+  {
+    "concept": "obj:bucket",
+    "train_pos": 7,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "obj:bunny",
+    "train_pos": 3,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.005434782608695652
+  },
+  {
+    "concept": "obj:burner",
+    "train_pos": 386,
+    "val_pos": 97,
+    "accuracy": 0.9955,
+    "f1": 0.9513513513513514,
+    "average_precision": 0.9999999999999998
+  },
+  {
+    "concept": "obj:cabinet",
+    "train_pos": 11,
+    "val_pos": 7,
+    "accuracy": 0.9965,
+    "f1": 0.0,
+    "average_precision": 0.8576881134133042
+  },
+  {
+    "concept": "obj:cake",
+    "train_pos": 1,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.0019342359767891683
+  },
+  {
+    "concept": "obj:can",
+    "train_pos": 116,
+    "val_pos": 25,
+    "accuracy": 0.994,
+    "f1": 0.6842105263157895,
+    "average_precision": 0.9463824244695982
+  },
+  {
+    "concept": "obj:cap",
+    "train_pos": 12,
+    "val_pos": 3,
+    "accuracy": 0.9985,
+    "f1": 0.0,
+    "average_precision": 0.004004181933207569
+  },
+  {
+    "concept": "obj:capsicum",
+    "train_pos": 6,
+    "val_pos": 3,
+    "accuracy": 0.9985,
+    "f1": 0.0,
+    "average_precision": 0.01772295321637427
+  },
+  {
+    "concept": "obj:cardboard",
+    "train_pos": 192,
+    "val_pos": 51,
+    "accuracy": 0.9995,
+    "f1": 0.9900990099009901,
+    "average_precision": 1.0
+  },
+  {
+    "concept": "obj:carrot",
+    "train_pos": 144,
+    "val_pos": 36,
+    "accuracy": 0.998,
+    "f1": 0.9411764705882353,
+    "average_precision": 1.0
+  },
+  {
+    "concept": "obj:cauliflower",
+    "train_pos": 4,
+    "val_pos": 2,
+    "accuracy": 0.999,
+    "f1": 0.0,
+    "average_precision": 0.010093325218096978
+  },
+  {
+    "concept": "obj:center",
+    "train_pos": 74,
+    "val_pos": 12,
+    "accuracy": 0.9945,
+    "f1": 0.15384615384615385,
+    "average_precision": 0.5760692224946616
+  },
+  {
+    "concept": "obj:centre",
+    "train_pos": 16,
+    "val_pos": 5,
+    "accuracy": 0.9975,
+    "f1": 0.0,
+    "average_precision": 0.26370790994221954
+  },
+  {
+    "concept": "obj:cheese",
+    "train_pos": 7,
+    "val_pos": 6,
+    "accuracy": 0.997,
+    "f1": 0.0,
+    "average_precision": 0.3722518131546929
+  },
+  {
+    "concept": "obj:chicken",
+    "train_pos": 19,
+    "val_pos": 3,
+    "accuracy": 0.9985,
+    "f1": 0.0,
+    "average_precision": 0.5254901960784314
+  },
+  {
+    "concept": "obj:chili",
+    "train_pos": 2,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "obj:chocolate",
+    "train_pos": 6,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "obj:circle",
+    "train_pos": 3,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.0037174721189591076
+  },
+  {
+    "concept": "obj:cloth",
+    "train_pos": 1209,
+    "val_pos": 281,
+    "accuracy": 0.9665,
+    "f1": 0.8673267326732673,
+    "average_precision": 0.9776773283657231
+  },
+  {
+    "concept": "obj:clothe",
+    "train_pos": 46,
+    "val_pos": 6,
+    "accuracy": 0.997,
+    "f1": 0.0,
+    "average_precision": 0.8389830508474576
+  },
+  {
+    "concept": "obj:colander",
+    "train_pos": 26,
+    "val_pos": 3,
+    "accuracy": 0.9985,
+    "f1": 0.0,
+    "average_precision": 0.00574919786852111
+  },
+  {
+    "concept": "obj:color",
+    "train_pos": 2,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.013333333333333334
+  },
+  {
+    "concept": "obj:cone",
+    "train_pos": 9,
+    "val_pos": 2,
+    "accuracy": 0.999,
+    "f1": 0.0,
+    "average_precision": 0.0019086474501108647
+  },
+  {
+    "concept": "obj:container",
+    "train_pos": 20,
+    "val_pos": 8,
+    "accuracy": 0.996,
+    "f1": 0.0,
+    "average_precision": 0.007339653253968301
+  },
+  {
+    "concept": "obj:cooker",
+    "train_pos": 10,
+    "val_pos": 4,
+    "accuracy": 0.998,
+    "f1": 0.0,
+    "average_precision": 0.21533359260219515
+  },
+  {
+    "concept": "obj:cooking",
+    "train_pos": 5,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "obj:cooktop",
+    "train_pos": 6,
+    "val_pos": 3,
+    "accuracy": 0.9985,
+    "f1": 0.0,
+    "average_precision": 0.003863910136141094
+  },
+  {
+    "concept": "obj:corn",
+    "train_pos": 115,
+    "val_pos": 19,
+    "accuracy": 0.998,
+    "f1": 0.8823529411764706,
+    "average_precision": 1.0
+  },
+  {
+    "concept": "obj:corncob",
+    "train_pos": 1,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "obj:corner",
+    "train_pos": 191,
+    "val_pos": 44,
+    "accuracy": 0.9835,
+    "f1": 0.42105263157894735,
+    "average_precision": 0.7907166844977489
+  },
+  {
+    "concept": "obj:counter",
+    "train_pos": 39,
+    "val_pos": 19,
+    "accuracy": 0.9905,
+    "f1": 0.0,
+    "average_precision": 0.6871030122738785
+  },
+  {
+    "concept": "obj:cover",
+    "train_pos": 7,
+    "val_pos": 3,
+    "accuracy": 0.9985,
+    "f1": 0.0,
+    "average_precision": 0.007249910914641781
+  },
+  {
+    "concept": "obj:cream",
+    "train_pos": 3,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.0196078431372549
+  },
+  {
+    "concept": "obj:cube",
+    "train_pos": 102,
+    "val_pos": 34,
+    "accuracy": 0.9865,
+    "f1": 0.37209302325581395,
+    "average_precision": 0.8450564470811682
+  },
+  {
+    "concept": "obj:cuboid",
+    "train_pos": 5,
+    "val_pos": 2,
+    "accuracy": 0.999,
+    "f1": 0.0,
+    "average_precision": 0.005426225820962663
+  },
+  {
+    "concept": "obj:cucumber",
+    "train_pos": 10,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.0018248175182481751
+  },
+  {
+    "concept": "obj:cup",
+    "train_pos": 109,
+    "val_pos": 30,
+    "accuracy": 0.9915,
+    "f1": 0.6046511627906976,
+    "average_precision": 0.9097351667544871
+  },
+  {
+    "concept": "obj:cutter",
+    "train_pos": 7,
+    "val_pos": 2,
+    "accuracy": 0.999,
+    "f1": 0.0,
+    "average_precision": 0.004081632653061225
+  },
+  {
+    "concept": "obj:cylinder",
+    "train_pos": 48,
+    "val_pos": 13,
+    "accuracy": 0.9935,
+    "f1": 0.13333333333333333,
+    "average_precision": 0.7697942371019294
+  },
+  {
+    "concept": "obj:desk",
+    "train_pos": 5,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.001976284584980237
+  },
+  {
+    "concept": "obj:detergent",
+    "train_pos": 27,
+    "val_pos": 6,
+    "accuracy": 0.998,
+    "f1": 0.5,
+    "average_precision": 1.0
+  },
+  {
+    "concept": "obj:direction",
+    "train_pos": 1,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "obj:dish",
+    "train_pos": 5,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "obj:dog",
+    "train_pos": 2,
+    "val_pos": 2,
+    "accuracy": 0.999,
+    "f1": 0.0,
+    "average_precision": 0.002538453161134921
+  },
+  {
+    "concept": "obj:doll",
+    "train_pos": 8,
+    "val_pos": 3,
+    "accuracy": 0.9985,
+    "f1": 0.0,
+    "average_precision": 0.007640319253060662
+  },
+  {
+    "concept": "obj:drainer",
+    "train_pos": 1,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "obj:draw",
+    "train_pos": 3,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "obj:drawer",
+    "train_pos": 356,
+    "val_pos": 95,
+    "accuracy": 0.9925,
+    "f1": 0.9142857142857143,
+    "average_precision": 0.9997829625610419
+  },
+  {
+    "concept": "obj:drumstick",
+    "train_pos": 5,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "obj:duck",
+    "train_pos": 12,
+    "val_pos": 7,
+    "accuracy": 0.9965,
+    "f1": 0.0,
+    "average_precision": 0.4946463111356728
+  },
+  {
+    "concept": "obj:edge",
+    "train_pos": 164,
+    "val_pos": 35,
+    "accuracy": 0.99,
+    "f1": 0.6,
+    "average_precision": 0.8452658974617064
+  },
+  {
+    "concept": "obj:effector",
+    "train_pos": 56,
+    "val_pos": 12,
+    "accuracy": 0.998,
+    "f1": 0.8,
+    "average_precision": 1.0
+  },
+  {
+    "concept": "obj:egg",
+    "train_pos": 15,
+    "val_pos": 3,
+    "accuracy": 0.9985,
+    "f1": 0.0,
+    "average_precision": 0.06607054148037754
+  },
+  {
+    "concept": "obj:eggplant",
+    "train_pos": 32,
+    "val_pos": 9,
+    "accuracy": 0.996,
+    "f1": 0.2,
+    "average_precision": 0.8206094764065779
+  },
+  {
+    "concept": "obj:elephant",
+    "train_pos": 1,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.010638297872340425
+  },
+  {
+    "concept": "obj:end",
+    "train_pos": 7,
+    "val_pos": 2,
+    "accuracy": 0.999,
+    "f1": 0.0,
+    "average_precision": 0.004316836538124759
+  },
+  {
+    "concept": "obj:fabric",
+    "train_pos": 8,
+    "val_pos": 2,
+    "accuracy": 0.999,
+    "f1": 0.0,
+    "average_precision": 0.008654738237243208
+  },
+  {
+    "concept": "obj:fence",
+    "train_pos": 198,
+    "val_pos": 54,
+    "accuracy": 0.998,
+    "f1": 0.9615384615384616,
+    "average_precision": 0.9999999999999998
+  },
+  {
+    "concept": "obj:figure",
+    "train_pos": 55,
+    "val_pos": 9,
+    "accuracy": 0.9985,
+    "f1": 0.8,
+    "average_precision": 0.9444444444444444
+  },
+  {
+    "concept": "obj:fish",
+    "train_pos": 8,
+    "val_pos": 2,
+    "accuracy": 0.999,
+    "f1": 0.0,
+    "average_precision": 0.011329474581594652
+  },
+  {
+    "concept": "obj:flap",
+    "train_pos": 61,
+    "val_pos": 16,
+    "accuracy": 0.996,
+    "f1": 0.6666666666666666,
+    "average_precision": 1.0
+  },
+  {
+    "concept": "obj:floor",
+    "train_pos": 3,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "obj:food",
+    "train_pos": 6,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.007407407407407408
+  },
+  {
+    "concept": "obj:fork",
+    "train_pos": 116,
+    "val_pos": 23,
+    "accuracy": 0.9925,
+    "f1": 0.5161290322580645,
+    "average_precision": 0.9322890105267575
+  },
+  {
+    "concept": "obj:fridge",
+    "train_pos": 73,
+    "val_pos": 15,
+    "accuracy": 0.9925,
+    "f1": 0.0,
+    "average_precision": 1.0
+  },
+  {
+    "concept": "obj:front",
+    "train_pos": 115,
+    "val_pos": 24,
+    "accuracy": 0.991,
+    "f1": 0.4,
+    "average_precision": 0.9085218575785526
+  },
+  {
+    "concept": "obj:fruit",
+    "train_pos": 11,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "obj:fry",
+    "train_pos": 9,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "obj:glass",
+    "train_pos": 8,
+    "val_pos": 6,
+    "accuracy": 0.997,
+    "f1": 0.0,
+    "average_precision": 0.00406287027481558
+  },
+  {
+    "concept": "obj:glue",
+    "train_pos": 6,
+    "val_pos": 2,
+    "accuracy": 0.999,
+    "f1": 0.0,
+    "average_precision": 0.0029154518950437317
+  },
+  {
+    "concept": "obj:good",
+    "train_pos": 1,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.2
+  },
+  {
+    "concept": "obj:grape",
+    "train_pos": 6,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.0047169811320754715
+  },
+  {
+    "concept": "obj:half",
+    "train_pos": 3,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "obj:hand",
+    "train_pos": 2,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.00980392156862745
+  },
+  {
+    "concept": "obj:handle",
+    "train_pos": 13,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "obj:holder",
+    "train_pos": 11,
+    "val_pos": 2,
+    "accuracy": 0.999,
+    "f1": 0.0,
+    "average_precision": 0.0015515903801396431
+  },
+  {
+    "concept": "obj:hole",
+    "train_pos": 18,
+    "val_pos": 6,
+    "accuracy": 0.997,
+    "f1": 0.0,
+    "average_precision": 0.8074786324786325
+  },
+  {
+    "concept": "obj:ice",
+    "train_pos": 3,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.0196078431372549
+  },
+  {
+    "concept": "obj:image",
+    "train_pos": 3,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.0010822510822510823
+  },
+  {
+    "concept": "obj:item",
+    "train_pos": 14,
+    "val_pos": 4,
+    "accuracy": 0.998,
+    "f1": 0.0,
+    "average_precision": 0.004876974746745498
+  },
+  {
+    "concept": "obj:jar",
+    "train_pos": 3,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "obj:key",
+    "train_pos": 9,
+    "val_pos": 2,
+    "accuracy": 0.999,
+    "f1": 0.0,
+    "average_precision": 1.0
+  },
+  {
+    "concept": "obj:kitchen",
+    "train_pos": 2,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "obj:knife",
+    "train_pos": 119,
+    "val_pos": 37,
+    "accuracy": 0.992,
+    "f1": 0.7241379310344828,
+    "average_precision": 0.9232055847121027
+  },
+  {
+    "concept": "obj:knob",
+    "train_pos": 3,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "obj:ladle",
+    "train_pos": 3,
+    "val_pos": 2,
+    "accuracy": 0.999,
+    "f1": 0.0,
+    "average_precision": 0.019724693637737115
+  },
+  {
+    "concept": "obj:large4fbox",
+    "train_pos": 17,
+    "val_pos": 6,
+    "accuracy": 0.997,
+    "f1": 0.0,
+    "average_precision": 1.0
+  },
+  {
+    "concept": "obj:left",
+    "train_pos": 210,
+    "val_pos": 71,
+    "accuracy": 0.966,
+    "f1": 0.08108108108108109,
+    "average_precision": 0.8297786760151404
+  },
+  {
+    "concept": "obj:leg",
+    "train_pos": 10,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.005405405405405406
+  },
+  {
+    "concept": "obj:lemon",
+    "train_pos": 7,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.012345679012345678
+  },
+  {
+    "concept": "obj:lid",
+    "train_pos": 153,
+    "val_pos": 35,
+    "accuracy": 0.9935,
+    "f1": 0.7719298245614035,
+    "average_precision": 0.9960279607338431
+  },
+  {
+    "concept": "obj:lift",
+    "train_pos": 5,
+    "val_pos": 4,
+    "accuracy": 0.998,
+    "f1": 0.0,
+    "average_precision": 0.004696019529594059
+  },
+  {
+    "concept": "obj:machine",
+    "train_pos": 54,
+    "val_pos": 9,
+    "accuracy": 0.996,
+    "f1": 0.2,
+    "average_precision": 0.9353667392883078
+  },
+  {
+    "concept": "obj:meat",
+    "train_pos": 3,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "obj:metal",
+    "train_pos": 74,
+    "val_pos": 17,
+    "accuracy": 0.9945,
+    "f1": 0.5217391304347826,
+    "average_precision": 0.8921651430842608
+  },
+  {
+    "concept": "obj:microwave",
+    "train_pos": 129,
+    "val_pos": 25,
+    "accuracy": 0.9975,
+    "f1": 0.8888888888888888,
+    "average_precision": 1.0
+  },
+  {
+    "concept": "obj:middle",
+    "train_pos": 110,
+    "val_pos": 27,
+    "accuracy": 0.9875,
+    "f1": 0.13793103448275862,
+    "average_precision": 0.7903662220451299
+  },
+  {
+    "concept": "obj:mouse",
+    "train_pos": 2,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.030303030303030304
+  },
+  {
+    "concept": "obj:mushroom",
+    "train_pos": 53,
+    "val_pos": 16,
+    "accuracy": 0.996,
+    "f1": 0.6666666666666666,
+    "average_precision": 0.9963235294117647
+  },
+  {
+    "concept": "obj:napkin",
+    "train_pos": 40,
+    "val_pos": 7,
+    "accuracy": 0.9965,
+    "f1": 0.0,
+    "average_precision": 0.7174860227491806
+  },
+  {
+    "concept": "obj:object",
+    "train_pos": 298,
+    "val_pos": 86,
+    "accuracy": 0.9805,
+    "f1": 0.706766917293233,
+    "average_precision": 0.9537778058367127
+  },
+  {
+    "concept": "obj:objet",
+    "train_pos": 2,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "obj:onion",
+    "train_pos": 1,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.0024752475247524753
+  },
+  {
+    "concept": "obj:ontop",
+    "train_pos": 3,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "obj:orange",
+    "train_pos": 36,
+    "val_pos": 10,
+    "accuracy": 0.995,
+    "f1": 0.0,
+    "average_precision": 0.5690028293352276
+  },
+  {
+    "concept": "obj:oven",
+    "train_pos": 3,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.0017605633802816902
+  },
+  {
+    "concept": "obj:pan",
+    "train_pos": 237,
+    "val_pos": 57,
+    "accuracy": 0.9885,
+    "f1": 0.7472527472527473,
+    "average_precision": 0.9775972141812908
+  },
+  {
+    "concept": "obj:part",
+    "train_pos": 27,
+    "val_pos": 7,
+    "accuracy": 0.9965,
+    "f1": 0.0,
+    "average_precision": 0.3552948357389752
+  },
+  {
+    "concept": "obj:pawn",
+    "train_pos": 2,
+    "val_pos": 2,
+    "accuracy": 0.999,
+    "f1": 0.0,
+    "average_precision": 0.004510457653761051
+  },
+  {
+    "concept": "obj:pear",
+    "train_pos": 46,
+    "val_pos": 7,
+    "accuracy": 1.0,
+    "f1": 1.0,
+    "average_precision": 1.0
+  },
+  {
+    "concept": "obj:pen",
+    "train_pos": 10,
+    "val_pos": 2,
+    "accuracy": 0.999,
+    "f1": 0.0,
+    "average_precision": 0.002886002886002886
+  },
+  {
+    "concept": "obj:pepper",
+    "train_pos": 71,
+    "val_pos": 13,
+    "accuracy": 0.9935,
+    "f1": 0.0,
+    "average_precision": 1.0
+  },
+  {
+    "concept": "obj:pickle",
+    "train_pos": 9,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "obj:piece",
+    "train_pos": 8,
+    "val_pos": 3,
+    "accuracy": 0.9985,
+    "f1": 0.0,
+    "average_precision": 0.004247699388448365
+  },
+  {
+    "concept": "obj:pile",
+    "train_pos": 143,
+    "val_pos": 39,
+    "accuracy": 0.9995,
+    "f1": 0.987012987012987,
+    "average_precision": 0.9838827838827838
+  },
+  {
+    "concept": "obj:pineapple",
+    "train_pos": 3,
+    "val_pos": 2,
+    "accuracy": 0.999,
+    "f1": 0.0,
+    "average_precision": 0.25120048019207686
+  },
+  {
+    "concept": "obj:place",
+    "train_pos": 30,
+    "val_pos": 10,
+    "accuracy": 0.995,
+    "f1": 0.0,
+    "average_precision": 0.023047840145972723
+  },
+  {
+    "concept": "obj:plastic",
+    "train_pos": 1,
+    "val_pos": 2,
+    "accuracy": 0.999,
+    "f1": 0.0,
+    "average_precision": 0.06468531468531469
+  },
+  {
+    "concept": "obj:plate",
+    "train_pos": 242,
+    "val_pos": 65,
+    "accuracy": 0.9915,
+    "f1": 0.8495575221238938,
+    "average_precision": 0.9851280170327652
+  },
+  {
+    "concept": "obj:plus",
+    "train_pos": 2,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.004291845493562232
+  },
+  {
+    "concept": "obj:position",
+    "train_pos": 2,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.0009615384615384616
+  },
+  {
+    "concept": "obj:pot",
+    "train_pos": 1308,
+    "val_pos": 321,
+    "accuracy": 0.9835,
+    "f1": 0.9461663947797716,
+    "average_precision": 0.9904219411968077
+  },
+  {
+    "concept": "obj:potato",
+    "train_pos": 86,
+    "val_pos": 27,
+    "accuracy": 0.9945,
+    "f1": 0.7441860465116279,
+    "average_precision": 0.9828833377339947
+  },
+  {
+    "concept": "obj:pour",
+    "train_pos": 16,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 1.0
+  },
+  {
+    "concept": "obj:pumpkin",
+    "train_pos": 1,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.013888888888888888
+  },
+  {
+    "concept": "obj:rabbit",
+    "train_pos": 4,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "obj:rack",
+    "train_pos": 44,
+    "val_pos": 10,
+    "accuracy": 0.998,
+    "f1": 0.75,
+    "average_precision": 1.0
+  },
+  {
+    "concept": "obj:rag",
+    "train_pos": 11,
+    "val_pos": 2,
+    "accuracy": 0.999,
+    "f1": 0.0,
+    "average_precision": 0.01822429906542056
+  },
+  {
+    "concept": "obj:rectangle",
+    "train_pos": 39,
+    "val_pos": 7,
+    "accuracy": 0.9965,
+    "f1": 0.0,
+    "average_precision": 0.6035714285714285
+  },
+  {
+    "concept": "obj:red",
+    "train_pos": 4,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "obj:redcube",
+    "train_pos": 4,
+    "val_pos": 3,
+    "accuracy": 0.9985,
+    "f1": 0.0,
+    "average_precision": 0.01098901098901099
+  },
+  {
+    "concept": "obj:right",
+    "train_pos": 600,
+    "val_pos": 128,
+    "accuracy": 0.969,
+    "f1": 0.7019230769230769,
+    "average_precision": 0.8330308002283646
+  },
+  {
+    "concept": "obj:rigth",
+    "train_pos": 6,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.001440922190201729
+  },
+  {
+    "concept": "obj:ring",
+    "train_pos": 9,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.0019723865877712033
+  },
+  {
+    "concept": "obj:robot",
+    "train_pos": 11,
+    "val_pos": 5,
+    "accuracy": 0.9975,
+    "f1": 0.0,
+    "average_precision": 0.011140967174465935
+  },
+  {
+    "concept": "obj:roll",
+    "train_pos": 4,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "obj:salmon",
+    "train_pos": 5,
+    "val_pos": 2,
+    "accuracy": 0.999,
+    "f1": 0.0,
+    "average_precision": 0.0037883169462116827
+  },
+  {
+    "concept": "obj:salt",
+    "train_pos": 4,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.0008928571428571428
+  },
+  {
+    "concept": "obj:sauce",
+    "train_pos": 21,
+    "val_pos": 4,
+    "accuracy": 0.999,
+    "f1": 0.6666666666666666,
+    "average_precision": 0.787037037037037
+  },
+  {
+    "concept": "obj:saucepan",
+    "train_pos": 3,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "obj:sausage",
+    "train_pos": 1,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "obj:scissor",
+    "train_pos": 6,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 1.0
+  },
+  {
+    "concept": "obj:scoop",
+    "train_pos": 9,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.05
+  },
+  {
+    "concept": "obj:shaker",
+    "train_pos": 5,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "obj:shape",
+    "train_pos": 7,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.0024154589371980675
+  },
+  {
+    "concept": "obj:shelf",
+    "train_pos": 1,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "obj:side",
+    "train_pos": 531,
+    "val_pos": 129,
+    "accuracy": 0.9785,
+    "f1": 0.8105726872246696,
+    "average_precision": 0.9275642761148778
+  },
+  {
+    "concept": "obj:silver",
+    "train_pos": 379,
+    "val_pos": 80,
+    "accuracy": 0.984,
+    "f1": 0.7611940298507462,
+    "average_precision": 0.9444504717420255
+  },
+  {
+    "concept": "obj:sink",
+    "train_pos": 340,
+    "val_pos": 90,
+    "accuracy": 0.985,
+    "f1": 0.8,
+    "average_precision": 0.9465701670775943
+  },
+  {
+    "concept": "obj:slice",
+    "train_pos": 4,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.00510204081632653
+  },
+  {
+    "concept": "obj:slide",
+    "train_pos": 4,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "obj:sliver",
+    "train_pos": 2,
+    "val_pos": 2,
+    "accuracy": 0.999,
+    "f1": 0.0,
+    "average_precision": 0.0021521158860214654
+  },
+  {
+    "concept": "obj:space",
+    "train_pos": 5,
+    "val_pos": 3,
+    "accuracy": 0.9985,
+    "f1": 0.0,
+    "average_precision": 0.017567092303369794
+  },
+  {
+    "concept": "obj:spatula",
+    "train_pos": 114,
+    "val_pos": 24,
+    "accuracy": 0.992,
+    "f1": 0.5,
+    "average_precision": 0.9917781493868447
+  },
+  {
+    "concept": "obj:sponge",
+    "train_pos": 12,
+    "val_pos": 3,
+    "accuracy": 0.9985,
+    "f1": 0.0,
+    "average_precision": 0.0029962661756431897
+  },
+  {
+    "concept": "obj:spoon",
+    "train_pos": 315,
+    "val_pos": 61,
+    "accuracy": 0.9865,
+    "f1": 0.7216494845360825,
+    "average_precision": 0.9663030178461242
+  },
+  {
+    "concept": "obj:square",
+    "train_pos": 1,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.00202020202020202
+  },
+  {
+    "concept": "obj:squash",
+    "train_pos": 1,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.125
+  },
+  {
+    "concept": "obj:srewdriver",
+    "train_pos": 2,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "obj:steel",
+    "train_pos": 13,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "obj:stick",
+    "train_pos": 8,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.0013440860215053765
+  },
+  {
+    "concept": "obj:stove",
+    "train_pos": 305,
+    "val_pos": 75,
+    "accuracy": 0.983,
+    "f1": 0.711864406779661,
+    "average_precision": 0.9615323921948216
+  },
+  {
+    "concept": "obj:stovetop",
+    "train_pos": 1,
+    "val_pos": 2,
+    "accuracy": 0.999,
+    "f1": 0.0,
+    "average_precision": 0.018229166666666664
+  },
+  {
+    "concept": "obj:strainer",
+    "train_pos": 3,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.010416666666666666
+  },
+  {
+    "concept": "obj:strawberry",
+    "train_pos": 23,
+    "val_pos": 11,
+    "accuracy": 0.995,
+    "f1": 0.16666666666666666,
+    "average_precision": 1.0
+  },
+  {
+    "concept": "obj:stuff",
+    "train_pos": 3,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.0036900369003690036
+  },
+  {
+    "concept": "obj:stuffedduck",
+    "train_pos": 7,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "obj:stuffedpig",
+    "train_pos": 4,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.0055248618784530384
+  },
+  {
+    "concept": "obj:stuffedrabbit",
+    "train_pos": 3,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.0014492753623188406
+  },
+  {
+    "concept": "obj:surface",
+    "train_pos": 5,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.004329004329004329
+  },
+  {
+    "concept": "obj:sushi",
+    "train_pos": 75,
+    "val_pos": 24,
+    "accuracy": 0.995,
+    "f1": 0.7368421052631579,
+    "average_precision": 0.9241615206688735
+  },
+  {
+    "concept": "obj:switch",
+    "train_pos": 10,
+    "val_pos": 2,
+    "accuracy": 0.999,
+    "f1": 0.0,
+    "average_precision": 0.004241019282261398
+  },
+  {
+    "concept": "obj:table",
+    "train_pos": 794,
+    "val_pos": 192,
+    "accuracy": 0.9735,
+    "f1": 0.8463768115942029,
+    "average_precision": 0.9569018202785936
+  },
+  {
+    "concept": "obj:thing",
+    "train_pos": 56,
+    "val_pos": 16,
+    "accuracy": 0.9925,
+    "f1": 0.11764705882352941,
+    "average_precision": 0.6144934032168945
+  },
+  {
+    "concept": "obj:tin",
+    "train_pos": 18,
+    "val_pos": 5,
+    "accuracy": 0.9975,
+    "f1": 0.0,
+    "average_precision": 0.010468045591427371
+  },
+  {
+    "concept": "obj:tomato",
+    "train_pos": 13,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.5
+  },
+  {
+    "concept": "obj:top",
+    "train_pos": 558,
+    "val_pos": 148,
+    "accuracy": 0.9755,
+    "f1": 0.8047808764940239,
+    "average_precision": 0.9437208236888602
+  },
+  {
+    "concept": "obj:topple",
+    "train_pos": 36,
+    "val_pos": 7,
+    "accuracy": 0.9975,
+    "f1": 0.4444444444444444,
+    "average_precision": 1.0
+  },
+  {
+    "concept": "obj:towel",
+    "train_pos": 195,
+    "val_pos": 46,
+    "accuracy": 0.983,
+    "f1": 0.41379310344827586,
+    "average_precision": 0.8462015141344028
+  },
+  {
+    "concept": "obj:tower",
+    "train_pos": 33,
+    "val_pos": 16,
+    "accuracy": 0.992,
+    "f1": 0.0,
+    "average_precision": 0.34165169264957335
+  },
+  {
+    "concept": "obj:toy",
+    "train_pos": 46,
+    "val_pos": 9,
+    "accuracy": 0.9955,
+    "f1": 0.0,
+    "average_precision": 0.5441389906863053
+  },
+  {
+    "concept": "obj:transition",
+    "train_pos": 23,
+    "val_pos": 4,
+    "accuracy": 0.998,
+    "f1": 0.0,
+    "average_precision": 1.0
+  },
+  {
+    "concept": "obj:tray",
+    "train_pos": 2,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.0011655011655011655
+  },
+  {
+    "concept": "obj:triangle",
+    "train_pos": 20,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.07692307692307693
+  },
+  {
+    "concept": "obj:unfold",
+    "train_pos": 5,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "obj:upright",
+    "train_pos": 62,
+    "val_pos": 18,
+    "accuracy": 0.9995,
+    "f1": 0.9714285714285714,
+    "average_precision": 0.9879227053140096
+  },
+  {
+    "concept": "obj:vegetable",
+    "train_pos": 16,
+    "val_pos": 3,
+    "accuracy": 0.9985,
+    "f1": 0.0,
+    "average_precision": 0.7222222222222222
+  },
+  {
+    "concept": "obj:vessel",
+    "train_pos": 35,
+    "val_pos": 9,
+    "accuracy": 0.9955,
+    "f1": 0.0,
+    "average_precision": 0.41839578363151214
+  },
+  {
+    "concept": "obj:violet",
+    "train_pos": 14,
+    "val_pos": 2,
+    "accuracy": 0.999,
+    "f1": 0.0,
+    "average_precision": 0.0017921146953405018
+  },
+  {
+    "concept": "obj:wall",
+    "train_pos": 7,
+    "val_pos": 2,
+    "accuracy": 0.999,
+    "f1": 0.0,
+    "average_precision": 0.01602409638554217
+  },
+  {
+    "concept": "obj:washer",
+    "train_pos": 5,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "obj:washing",
+    "train_pos": 16,
+    "val_pos": 4,
+    "accuracy": 0.998,
+    "f1": 0.0,
+    "average_precision": 0.615909090909091
+  },
+  {
+    "concept": "obj:wedge",
+    "train_pos": 1,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "obj:wing",
+    "train_pos": 6,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.045454545454545456
+  },
+  {
+    "concept": "obj:wipe",
+    "train_pos": 9,
+    "val_pos": 3,
+    "accuracy": 0.9985,
+    "f1": 0.0,
+    "average_precision": 0.0029962661756431897
+  },
+  {
+    "concept": "obj:wok",
+    "train_pos": 6,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "obj:wood",
+    "train_pos": 5,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "obj:yellow",
+    "train_pos": 2,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "obj:zip",
+    "train_pos": 7,
+    "val_pos": 2,
+    "accuracy": 0.999,
+    "f1": 0.0,
+    "average_precision": 0.0017226528854435831
+  },
+  {
+    "concept": "obj:zipper",
+    "train_pos": 10,
+    "val_pos": 2,
+    "accuracy": 0.999,
+    "f1": 0.0,
+    "average_precision": 0.0017226528854435831
+  },
+  {
+    "concept": "spatial:above",
+    "train_pos": 53,
+    "val_pos": 13,
+    "accuracy": 0.9935,
+    "f1": 0.0,
+    "average_precision": 0.5826415344384458
+  },
+  {
+    "concept": "spatial:back",
+    "train_pos": 56,
+    "val_pos": 9,
+    "accuracy": 0.996,
+    "f1": 0.2,
+    "average_precision": 0.5580217784096139
+  },
+  {
+    "concept": "spatial:below",
+    "train_pos": 29,
+    "val_pos": 3,
+    "accuracy": 0.9985,
+    "f1": 0.0,
+    "average_precision": 0.3878787878787879
+  },
+  {
+    "concept": "spatial:beside",
+    "train_pos": 22,
+    "val_pos": 4,
+    "accuracy": 0.998,
+    "f1": 0.0,
+    "average_precision": 0.01634535143702895
+  },
+  {
+    "concept": "spatial:bottom",
+    "train_pos": 634,
+    "val_pos": 129,
+    "accuracy": 0.984,
+    "f1": 0.8666666666666667,
+    "average_precision": 0.9670281898225062
+  },
+  {
+    "concept": "spatial:front",
+    "train_pos": 261,
+    "val_pos": 62,
+    "accuracy": 0.989,
+    "f1": 0.7843137254901961,
+    "average_precision": 0.9884012544779408
+  },
+  {
+    "concept": "spatial:in",
+    "train_pos": 920,
+    "val_pos": 233,
+    "accuracy": 0.9805,
+    "f1": 0.9086651053864169,
+    "average_precision": 0.9939371640711209
+  },
+  {
+    "concept": "spatial:inside",
+    "train_pos": 79,
+    "val_pos": 22,
+    "accuracy": 0.9895,
+    "f1": 0.08695652173913043,
+    "average_precision": 0.8104229666042987
+  },
+  {
+    "concept": "spatial:into",
+    "train_pos": 320,
+    "val_pos": 76,
+    "accuracy": 0.9915,
+    "f1": 0.8740740740740741,
+    "average_precision": 0.9696460131095405
+  },
+  {
+    "concept": "spatial:left",
+    "train_pos": 1167,
+    "val_pos": 282,
+    "accuracy": 0.982,
+    "f1": 0.9338235294117647,
+    "average_precision": 0.9888769980666454
+  },
+  {
+    "concept": "spatial:near",
+    "train_pos": 62,
+    "val_pos": 15,
+    "accuracy": 0.9925,
+    "f1": 0.0,
+    "average_precision": 0.4742479739645639
+  },
+  {
+    "concept": "spatial:next",
+    "train_pos": 38,
+    "val_pos": 9,
+    "accuracy": 0.9955,
+    "f1": 0.0,
+    "average_precision": 0.38082795836028593
+  },
+  {
+    "concept": "spatial:off",
+    "train_pos": 110,
+    "val_pos": 26,
+    "accuracy": 0.989,
+    "f1": 0.26666666666666666,
+    "average_precision": 0.9893162393162392
+  },
+  {
+    "concept": "spatial:on",
+    "train_pos": 1259,
+    "val_pos": 339,
+    "accuracy": 0.983,
+    "f1": 0.9475308641975309,
+    "average_precision": 0.9978335632786522
+  },
+  {
+    "concept": "spatial:onto",
+    "train_pos": 26,
+    "val_pos": 4,
+    "accuracy": 0.998,
+    "f1": 0.0,
+    "average_precision": 0.75
+  },
+  {
+    "concept": "spatial:outside",
+    "train_pos": 3,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.0011792452830188679
+  },
+  {
+    "concept": "spatial:over",
+    "train_pos": 18,
+    "val_pos": 2,
+    "accuracy": 0.999,
+    "f1": 0.0,
+    "average_precision": 0.02851851851851852
+  },
+  {
+    "concept": "spatial:right",
+    "train_pos": 1173,
+    "val_pos": 280,
+    "accuracy": 0.9765,
+    "f1": 0.9111531190926276,
+    "average_precision": 0.9851026695744602
+  },
+  {
+    "concept": "spatial:top",
+    "train_pos": 877,
+    "val_pos": 217,
+    "accuracy": 0.9805,
+    "f1": 0.9032258064516129,
+    "average_precision": 0.9883050770799975
+  },
+  {
+    "concept": "spatial:under",
+    "train_pos": 12,
+    "val_pos": 4,
+    "accuracy": 0.998,
+    "f1": 0.0,
+    "average_precision": 0.013114512482199176
+  },
+  {
+    "concept": "verb:back",
+    "train_pos": 5,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "verb:bottom",
+    "train_pos": 1,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.0019267822736030828
+  },
+  {
+    "concept": "verb:bring",
+    "train_pos": 4,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "verb:can",
+    "train_pos": 1,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.2
+  },
+  {
+    "concept": "verb:center",
+    "train_pos": 2,
+    "val_pos": 2,
+    "accuracy": 0.999,
+    "f1": 0.0,
+    "average_precision": 0.0026324892763248927
+  },
+  {
+    "concept": "verb:close",
+    "train_pos": 100,
+    "val_pos": 24,
+    "accuracy": 0.996,
+    "f1": 0.8,
+    "average_precision": 0.9693223443223443
+  },
+  {
+    "concept": "verb:cover",
+    "train_pos": 15,
+    "val_pos": 2,
+    "accuracy": 0.999,
+    "f1": 0.0,
+    "average_precision": 0.01162931556632344
+  },
+  {
+    "concept": "verb:cut",
+    "train_pos": 36,
+    "val_pos": 15,
+    "accuracy": 0.9955,
+    "f1": 0.5714285714285714,
+    "average_precision": 0.9578947368421052
+  },
+  {
+    "concept": "verb:drag",
+    "train_pos": 2,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "verb:drop",
+    "train_pos": 9,
+    "val_pos": 3,
+    "accuracy": 0.9985,
+    "f1": 0.0,
+    "average_precision": 0.00514133090510715
+  },
+  {
+    "concept": "verb:dry",
+    "train_pos": 45,
+    "val_pos": 10,
+    "accuracy": 0.998,
+    "f1": 0.75,
+    "average_precision": 1.0
+  },
+  {
+    "concept": "verb:fold",
+    "train_pos": 291,
+    "val_pos": 58,
+    "accuracy": 0.9975,
+    "f1": 0.9557522123893806,
+    "average_precision": 0.9842841733906231
+  },
+  {
+    "concept": "verb:front",
+    "train_pos": 101,
+    "val_pos": 25,
+    "accuracy": 0.996,
+    "f1": 0.8095238095238095,
+    "average_precision": 1.0
+  },
+  {
+    "concept": "verb:fry",
+    "train_pos": 1,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "verb:get",
+    "train_pos": 4,
+    "val_pos": 2,
+    "accuracy": 0.999,
+    "f1": 0.0,
+    "average_precision": 0.04195804195804196
+  },
+  {
+    "concept": "verb:grab",
+    "train_pos": 12,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.07692307692307693
+  },
+  {
+    "concept": "verb:handle",
+    "train_pos": 7,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "verb:hold",
+    "train_pos": 6,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "verb:keep",
+    "train_pos": 6,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.013333333333333334
+  },
+  {
+    "concept": "verb:leave",
+    "train_pos": 307,
+    "val_pos": 60,
+    "accuracy": 0.9845,
+    "f1": 0.6666666666666666,
+    "average_precision": 0.7868000803900577
+  },
+  {
+    "concept": "verb:left",
+    "train_pos": 31,
+    "val_pos": 8,
+    "accuracy": 0.996,
+    "f1": 0.0,
+    "average_precision": 0.5956261326819703
+  },
+  {
+    "concept": "verb:lift",
+    "train_pos": 5,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.0007855459544383347
+  },
+  {
+    "concept": "verb:load",
+    "train_pos": 1,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.0010834236186348862
+  },
+  {
+    "concept": "verb:lower",
+    "train_pos": 9,
+    "val_pos": 3,
+    "accuracy": 0.9985,
+    "f1": 0.0,
+    "average_precision": 0.004508074815623833
+  },
+  {
+    "concept": "verb:measure",
+    "train_pos": 2,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.0035087719298245615
+  },
+  {
+    "concept": "verb:moove",
+    "train_pos": 2,
+    "val_pos": 2,
+    "accuracy": 0.999,
+    "f1": 0.0,
+    "average_precision": 0.0018060415001149004
+  },
+  {
+    "concept": "verb:move",
+    "train_pos": 1553,
+    "val_pos": 362,
+    "accuracy": 0.994,
+    "f1": 0.9832402234636871,
+    "average_precision": 0.9991017762642576
+  },
+  {
+    "concept": "verb:object",
+    "train_pos": 21,
+    "val_pos": 4,
+    "accuracy": 0.998,
+    "f1": 0.0,
+    "average_precision": 1.0
+  },
+  {
+    "concept": "verb:open",
+    "train_pos": 93,
+    "val_pos": 29,
+    "accuracy": 0.998,
+    "f1": 0.9259259259259259,
+    "average_precision": 0.9877394636015325
+  },
+  {
+    "concept": "verb:oven",
+    "train_pos": 2,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "verb:pan",
+    "train_pos": 220,
+    "val_pos": 54,
+    "accuracy": 0.999,
+    "f1": 0.9811320754716981,
+    "average_precision": 0.9999999999999998
+  },
+  {
+    "concept": "verb:pear",
+    "train_pos": 3,
+    "val_pos": 3,
+    "accuracy": 0.9985,
+    "f1": 0.0,
+    "average_precision": 0.01768675455116133
+  },
+  {
+    "concept": "verb:pick",
+    "train_pos": 303,
+    "val_pos": 83,
+    "accuracy": 0.995,
+    "f1": 0.9367088607594937,
+    "average_precision": 0.9805578961602622
+  },
+  {
+    "concept": "verb:pickup",
+    "train_pos": 1,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.010869565217391304
+  },
+  {
+    "concept": "verb:place",
+    "train_pos": 420,
+    "val_pos": 111,
+    "accuracy": 0.9825,
+    "f1": 0.8167539267015707,
+    "average_precision": 0.9407451867361598
+  },
+  {
+    "concept": "verb:point",
+    "train_pos": 3,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.007874015748031496
+  },
+  {
+    "concept": "verb:pull",
+    "train_pos": 3,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.0010526315789473684
+  },
+  {
+    "concept": "verb:push",
+    "train_pos": 13,
+    "val_pos": 2,
+    "accuracy": 0.999,
+    "f1": 0.0,
+    "average_precision": 0.005249036873968079
+  },
+  {
+    "concept": "verb:put",
+    "train_pos": 1874,
+    "val_pos": 479,
+    "accuracy": 0.986,
+    "f1": 0.9706498951781971,
+    "average_precision": 0.9965813460358763
+  },
+  {
+    "concept": "verb:reach",
+    "train_pos": 33,
+    "val_pos": 8,
+    "accuracy": 0.996,
+    "f1": 0.0,
+    "average_precision": 1.0
+  },
+  {
+    "concept": "verb:remove",
+    "train_pos": 72,
+    "val_pos": 19,
+    "accuracy": 0.9945,
+    "f1": 0.5925925925925926,
+    "average_precision": 0.9999999999999996
+  },
+  {
+    "concept": "verb:rotate",
+    "train_pos": 2,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.0036496350364963502
+  },
+  {
+    "concept": "verb:set",
+    "train_pos": 5,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.009523809523809525
+  },
+  {
+    "concept": "verb:sink",
+    "train_pos": 3,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "verb:slide",
+    "train_pos": 14,
+    "val_pos": 6,
+    "accuracy": 0.997,
+    "f1": 0.0,
+    "average_precision": 0.8636363636363635
+  },
+  {
+    "concept": "verb:spoon",
+    "train_pos": 17,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "verb:squash",
+    "train_pos": 9,
+    "val_pos": 4,
+    "accuracy": 0.998,
+    "f1": 0.0,
+    "average_precision": 0.004767580452920143
+  },
+  {
+    "concept": "verb:stand",
+    "train_pos": 2,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "verb:strawberry",
+    "train_pos": 3,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "verb:stuff",
+    "train_pos": 6,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.007692307692307693
+  },
+  {
+    "concept": "verb:sweep",
+    "train_pos": 143,
+    "val_pos": 38,
+    "accuracy": 1.0,
+    "f1": 1.0,
+    "average_precision": 1.0
+  },
+  {
+    "concept": "verb:take",
+    "train_pos": 431,
+    "val_pos": 97,
+    "accuracy": 1.0,
+    "f1": 1.0,
+    "average_precision": 0.9999999999999997
+  },
+  {
+    "concept": "verb:top",
+    "train_pos": 5,
+    "val_pos": 2,
+    "accuracy": 0.999,
+    "f1": 0.0,
+    "average_precision": 0.0022902641525237404
+  },
+  {
+    "concept": "verb:touch",
+    "train_pos": 2,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.019230769230769232
+  },
+  {
+    "concept": "verb:towel",
+    "train_pos": 3,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.0019801980198019802
+  },
+  {
+    "concept": "verb:transfer",
+    "train_pos": 1,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.0017391304347826088
+  },
+  {
+    "concept": "verb:tray",
+    "train_pos": 18,
+    "val_pos": 9,
+    "accuracy": 0.9955,
+    "f1": 0.0,
+    "average_precision": 0.008071310890676002
+  },
+  {
+    "concept": "verb:turn",
+    "train_pos": 104,
+    "val_pos": 27,
+    "accuracy": 0.9995,
+    "f1": 0.9811320754716981,
+    "average_precision": 1.0
+  },
+  {
+    "concept": "verb:unfold",
+    "train_pos": 213,
+    "val_pos": 45,
+    "accuracy": 0.9985,
+    "f1": 0.967741935483871,
+    "average_precision": 0.9951949160637106
+  },
+  {
+    "concept": "verb:unzip",
+    "train_pos": 3,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  },
+  {
+    "concept": "verb:use",
+    "train_pos": 3,
+    "val_pos": 1,
+    "accuracy": 0.9995,
+    "f1": 0.0,
+    "average_precision": 0.005319148936170213
+  },
+  {
+    "concept": "verb:wipe",
+    "train_pos": 1,
+    "val_pos": 0,
+    "accuracy": 1.0,
+    "f1": 0.0,
+    "average_precision": 0.0
+  }
+]

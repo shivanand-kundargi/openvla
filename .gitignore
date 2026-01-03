@@ -150,4 +150,11 @@ data/
 
 # Rollout videos and wandb logs
 rollouts/
-wandb/
+
+# Concept Analysis
+concept_analysis/data/
+concept_analysis/results/**/*.npz
+concept_analysis/results/**/*.pkl
+*.tfrecord
+*.tfrecord*
+*.zip
