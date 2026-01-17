@@ -1,4 +1,4 @@
-# Do Vision Language Models Actually Walk the Talk?
+# Do Vision Language Action Models Actually Walk the Talk?
 ## OpenVLA Linguistic Concept Analysis
 
 **Project TLDR:** Analyzing the internal semantic grounding of Vision-Language-Action models.
