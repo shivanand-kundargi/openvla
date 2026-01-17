@@ -1,7 +1,7 @@
 # Do Vision Language Models Actually Walk the Talk?
 ## OpenVLA Linguistic Concept Analysis
 
-**Project:** Analyzing the internal semantic grounding of Vision-Language-Action models.
+**Project TLDR:** Analyzing the internal semantic grounding of Vision-Language-Action models.
 
 This repository contains the complete pipeline for analyzing how OpenVLA represents linguistic concepts (objects, actions, attributes) and how those internal representations correlate with physical robot control.
 
