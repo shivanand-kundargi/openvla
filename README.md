@@ -3,6 +3,11 @@
 
 **Project TLDR:** Analyzing the internal semantic grounding of Vision-Language-Action models.
 
+## 📊 Key Findings
+
+*   **High Semantic Understanding:** OpenVLA retains near-perfect linear information about objects (`obj:apple`) and attributes (`attr:red`) in its final layers (>99% probe accuracy).
+*   **Alignment Level:** While the model *understands* the concepts, its zero-shot action predictions show **calibration errors** (e.g., inverting up/down movements) when applied to the Bridge V2 embodiment.
+
 This repository contains the complete pipeline for analyzing how OpenVLA represents linguistic concepts (objects, actions, attributes) and how those internal representations correlate with physical robot control.
 
 ---
@@ -98,9 +103,3 @@ python -m concept_analysis.analyze_results \
 *Outputs: Accuracy Plots, Correlation Heatmaps, CSV Tables*
 
 ---
-
-## 📊 Key Findings
-
-*   **High Semantic Understanding:** OpenVLA retains near-perfect linear information about objects (`obj:apple`) and attributes (`attr:red`) in its final layers (>99% probe accuracy).
-*   **Alignment Level:** While the model *understands* the concepts, its zero-shot action predictions show **calibration errors** (e.g., inverting up/down movements) when applied to the Bridge V2 embodiment.
-
